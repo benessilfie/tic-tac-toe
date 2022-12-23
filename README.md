@@ -6,7 +6,7 @@ I built this game to practice using Ruby classes and object-oriented programming
 
 ## Running the Game
 
-To run the game, clone the repository and run the following command in the project directory:
+To run the game, clone the repository and run this command in the project directory:
 
 ```bash
 ruby run.rb
@@ -20,18 +20,10 @@ To run the tests, first install the RSpec gem:
 gem install rspec
 ```
 
-Then run the following command in the project directory:
+Then run this command in the project directory:
 
 ```bash
-rspec ./spec/player_spec.rb
-```
-
-```bash
-rspec ./spec/board_spec.rb
-```
-
-```bash
-rspec ./spec/game_spec.rb
+rspec ./spec
 ```
 
 ## Author
